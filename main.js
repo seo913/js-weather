@@ -1,9 +1,7 @@
 // 1. 날씨 api 사이트 들어가서 api커렌트 들어가서 주소 출력
 // 2. my api키 들어가서 키값 가져오기
 
-const API_KEY="90b262ad0bbcf4114ef65b3e7d5ee20d";  //날씨 api 키
-const weatherIcon = document.querySelector('.weatherIcon');
-const weatherTemp = document.querySelector('.weatherTemp');
+
 
     // navigator.geolocation.getCurrentPosition((position) => console.log(position)); 콘솔로그로 찍어서 레티튜드 롱기튜드가져오기
 
